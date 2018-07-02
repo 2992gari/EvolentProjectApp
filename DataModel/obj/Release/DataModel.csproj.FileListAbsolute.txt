@@ -1,0 +1,16 @@
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\DataModel.dll.config
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\DataModel.dll
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\DataModel.pdb
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\EntityFramework.dll
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\EntityFramework.SqlServer.dll
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\Resolver.dll
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\System.ValueTuple.dll
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\Unity.Abstractions.dll
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\Resolver.pdb
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\EntityFramework.xml
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\EntityFramework.SqlServer.xml
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\System.ValueTuple.xml
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\bin\Release\Unity.Abstractions.pdb
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\obj\Release\DataModel.csprojResolveAssemblyReference.cache
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\obj\Release\DataModel.dll
+E:\DemoAPPEvolvent\API.ContactManager\DataModel\obj\Release\DataModel.pdb

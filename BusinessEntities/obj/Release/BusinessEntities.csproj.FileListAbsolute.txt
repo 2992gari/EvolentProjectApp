@@ -1,0 +1,5 @@
+E:\DemoAPPEvolvent\API.ContactManager\BusinessEntities\bin\Release\BusinessEntities.dll
+E:\DemoAPPEvolvent\API.ContactManager\BusinessEntities\bin\Release\BusinessEntities.pdb
+E:\DemoAPPEvolvent\API.ContactManager\BusinessEntities\obj\Release\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\DemoAPPEvolvent\API.ContactManager\BusinessEntities\obj\Release\BusinessEntities.dll
+E:\DemoAPPEvolvent\API.ContactManager\BusinessEntities\obj\Release\BusinessEntities.pdb
